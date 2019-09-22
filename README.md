@@ -9,3 +9,7 @@
 - add catalogue for pdf wirtten by markdown
 - 针对电子版生成的pdf添加目录
 - 以pdf内容(如markdown)标题等级为依据
+
+### pdf_outline
+- extract the outline with corresponding pages form pdf
+- 从pdf中提取出目录和页码(带有层次的)
