@@ -10,6 +10,10 @@
 - 针对电子版生成的pdf添加目录
 - 以pdf内容(如markdown)标题等级为依据
 
-### pdf_outline
-- extract the outline with corresponding pages form pdf
-- 从pdf中提取出目录和页码(带有层次的)
+### pdfsplit
+- split the pdf into with chapters according to the outline
+- 根据目录按章节拆分pdf，拆分后各文件仍保有目录
+
+### pdfmark
+- samilar with pdftag,used to assist pdfsplit
+- 由pdftag更改，用于辅助pdfsplit
