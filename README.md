@@ -11,7 +11,7 @@
 - 以pdf内容(如markdown)标题等级为依据
 
 ### pdfsplit
-- split the pdf into with chapters according to the outline
+- split the pdf into several chapters according to the outline
 - 根据目录按章节拆分pdf，拆分后各文件仍保有目录
 
 ### pdfmark
